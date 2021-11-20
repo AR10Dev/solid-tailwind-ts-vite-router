@@ -23,6 +23,6 @@
   },
   "dependencies": {
     "solid-app-router": "0.1.12",
-    "solid-js": "1.2.4"
+    "solid-js": "1.2.5"
   }
 }
