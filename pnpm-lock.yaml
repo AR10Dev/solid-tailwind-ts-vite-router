@@ -15,7 +15,7 @@ specifiers:
   solid-js: 1.3.17
   tailwindcss: 3.0.24
   typescript: 4.6.4
-  vite: 2.9.5
+  vite: 2.9.8
   vite-plugin-solid: 2.2.6
 
 dependencies:
@@ -35,7 +35,7 @@ devDependencies:
   prettier: 2.6.2
   tailwindcss: 3.0.24
   typescript: 4.6.4
-  vite: 2.9.5
+  vite: 2.9.8
   vite-plugin-solid: 2.2.6
 
 packages:
@@ -2444,7 +2444,7 @@ packages:
       merge-anything: 5.0.2
       solid-js: 1.3.17
       solid-refresh: 0.4.0_solid-js@1.3.17
-      vite: 2.9.5
+      vite: 2.9.8
     transitivePeerDependencies:
       - less
       - sass
@@ -2452,8 +2452,8 @@ packages:
       - supports-color
     dev: true
 
-  /vite/2.9.5:
-    resolution: {integrity: sha512-dvMN64X2YEQgSXF1lYabKXw3BbN6e+BL67+P3Vy4MacnY+UzT1AfkHiioFSi9+uiDUiaDy7Ax/LQqivk6orilg==}
+  /vite/2.9.8:
+    resolution: {integrity: sha512-zsBGwn5UT3YS0NLSJ7hnR54+vUKfgzMUh/Z9CxF1YKEBVIe213+63jrFLmZphgGI5zXwQCSmqIdbPuE8NJywPw==}
     engines: {node: '>=12.2.0'}
     hasBin: true
     peerDependencies:
