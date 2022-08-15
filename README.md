@@ -48,7 +48,7 @@ When you use this template, follow the checklist to update your info properly
 ### Development
 
 ```bash
-npm run dev
+npm run dev # or pnpm dev or yarn dev
 ```
 
 Runs the app in the development mode.<br>
@@ -59,7 +59,7 @@ The page will reload automatically if you make edits.<br>
 ### Build
 
 ```bash
-npm run build
+npm run build # or pnpm build or yarn build
 ```
 
 Builds the app for production to the `dist` folder.<br>
