@@ -1,19 +1,19 @@
-# [Solid](https://solidjs.com) + [Tailwind CSS](https://tailwindcss.com/) + [TypeScript](https://www.typescriptlang.org/) + [Vite](https://vitejs.dev/) Starter
+# [Solid](https://solidjs.com) + [Tailwind CSS](https://tailwindcss.com) + [TypeScript](https://typescriptlang.org) + [Vite](https://vitejs.dev) Starter
 
-A starter template for Solid that comes preconfigured with [Vite](https://vitejs.dev/),
-[TypeScript](https://www.typescriptlang.org/), [Tailwind CSS](https://tailwindcss.com/), [ESLint](https://eslint.org/), [Prettier](https://prettier.io/), HMR and file based routing.
+A starter template for Solid that comes preconfigured with [Vite](https://vitejs.dev),
+[TypeScript](https://typescriptlang.org), [Tailwind CSS](https://tailwindcss.com), [ESLint](https://eslint.org), [Prettier](https://prettier.io), HMR and file based routing.
 
 ## Features
 
-- ⚡️ [Solid](https://solidjs.com) & [Vite](https://github.com/vitejs/vite) - Simple and performant reactivity for building user interfaces.
+- ⚡️ [Solid](https://solidjs.com) & [Vite](https://vitejs.dev) - Simple and performant reactivity for building user interfaces.
 
 - 🗂 [File based routing](https://github.com/AR10Dev/solid-tailwind-ts-vite-router/tree/master/src/pages)
 
-- 🎨 [Tailwind CSS](https://github.com/windicss/windicss) - A utility-first CSS framework for rapid UI development.
+- 🎨 [Tailwind CSS](https://tailwindcss.com) - A utility-first CSS framework for rapid UI development.
 
-- 💪 [TypeScript](https://www.typescriptlang.org/) - it's JavaScript with syntax for types.
+- 💪 [TypeScript](https://typescriptlang.org) - it's JavaScript with syntax for types.
 
-- 👌 [ESLint](https://eslint.org/) + [Prettier](https://prettier.io/) - ESLint find problems in your code and Prettier format your code for an easy life.
+- 👌 [ESLint](https://eslint.org) + [Prettier](https://prettier.io) - ESLint find problems in your code and Prettier format your code for an easy life.
 
 <br>
 
