@@ -5,7 +5,7 @@
     "": {
       "name": "solid-tailwind-ts-vite-router-template",
       "dependencies": {
-        "@solidjs/router": "0.16.1",
+        "@solidjs/router": "0.16.2",
         "solid-js": "1.9.14",
       },
       "devDependencies": {
@@ -149,7 +149,7 @@
 
     "@rolldown/pluginutils": ["@rolldown/pluginutils@1.0.1", "", {}, "sha512-2j9bGt5Jh8hj+vPtgzPtl72j0yRxHAyumoo6TNfAjsLB04UtpSvPbPcDcBMxz7n+9CYB0c1GxQFxYRg2jimqGw=="],
 
-    "@solidjs/router": ["@solidjs/router@0.16.1", "", { "peerDependencies": { "solid-js": "^1.8.6" } }, "sha512-IhyjedgC6LRpw/8CPGGI89FrV+r0xTHzOl2c4CRyzYQ1bLepJxbVI1LLKvsavMWY5TRBRacV7hAeOhuTXkjiqg=="],
+    "@solidjs/router": ["@solidjs/router@0.16.2", "", { "peerDependencies": { "solid-js": "^1.8.6" } }, "sha512-pncbV4SGUwGGlELlDWc3B4KDVB0Kt+7+7ct+GTN7D8CgetGSJMzl8RzyAFz+/TtSuFFzp9IzrjrACHUpGzxsKQ=="],
 
     "@tailwindcss/node": ["@tailwindcss/node@4.3.2", "", { "dependencies": { "@jridgewell/remapping": "^2.3.5", "enhanced-resolve": "5.21.6", "jiti": "^2.7.0", "lightningcss": "1.32.0", "magic-string": "^0.30.21", "source-map-js": "^1.2.1", "tailwindcss": "4.3.2" } }, "sha512-yWP/sqEcBLaD8JuA6zNwxoYKr75qxTioYwlRwekj5Jr/I5GXnoJfjetH/psLUIv74cYTH2lBUEzBkinthoYcBg=="],
 
